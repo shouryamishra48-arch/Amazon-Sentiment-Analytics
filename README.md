@@ -11,7 +11,7 @@ End-to-end analytics pipeline transforming 18,629 unstructured Amazon product re
 * Repository Structure
 * How to Run
 * Dashboard Pages
-* [SQL Views](#🗄-SQL-Views)
+* [SQL Views](###🗄-SQL-Views)
 * NLP Pipeline
 * Dataset
 
