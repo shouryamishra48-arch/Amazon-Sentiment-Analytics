@@ -98,6 +98,14 @@ The dashboard will populate automatically.
 ### 📈 Dashboard Pages
 
 <img width="996" height="444" alt="Screenshot 2026-03-05 183453" src="https://github.com/user-attachments/assets/04694fed-3c40-4e62-a05d-460d4a16b25c" />
+<img width="830" height="465" alt="Screenshot 2026-03-05 172025" src="https://github.com/user-attachments/assets/ae7c4614-9c2b-426e-a712-65cc24fa64c3" />
+<img width="832" height="470" alt="Screenshot 2026-03-05 172037" src="https://github.com/user-attachments/assets/91dbcf78-3e94-422a-951d-79a677cbde8c" />
+<img width="830" height="468" alt="Screenshot 2026-03-05 172049" src="https://github.com/user-attachments/assets/97f1463b-a055-4fe2-8b04-9d0fb342a2a3" />
+<img width="833" height="467" alt="Screenshot 2026-03-05 172103" src="https://github.com/user-attachments/assets/b5d7d6ee-b9a2-444f-aa0d-c996a3fcfc59" />
+<img width="832" height="472" alt="Screenshot 2026-03-05 172116" src="https://github.com/user-attachments/assets/49cb95ca-9d2c-454a-9c0a-d01a57a33c5c" />
+<img width="830" height="467" alt="Screenshot 2026-03-05 172132" src="https://github.com/user-attachments/assets/0972529c-a00e-4964-a839-d323a2fadc32" />
+<img width="833" height="468" alt="Screenshot 2026-03-05 172144" src="https://github.com/user-attachments/assets/e16a2761-2121-4fc4-a86f-5f2ab4262475" />
+
 
 ### 🗄 SQL Views
 
