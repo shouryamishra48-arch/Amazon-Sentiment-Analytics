@@ -3,15 +3,15 @@ End-to-end analytics pipeline transforming 18,629 unstructured Amazon product re
 
 ### 📌 Table of Contents
 
-* [Project Overview](#project-overview)
+* [Project Overview](#Project-Overview)
 * Business Questions
 * Key Findings
 * Tech Stack
 * Project Architecture
 * Repository Structure
-* [How to Run](###How-to-run)
+* How to Run
 * Dashboard Pages
-* SQL Views
+* [SQL Views](#🗄-SQL-Views)
 * NLP Pipeline
 * Dataset
 
