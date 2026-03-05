@@ -29,6 +29,8 @@ MetricValueInsightTotal Reviews Analyzed18,629Clean merged datasetAverage Star R
 🛠 Tech Stack
 
 ![images](https://github.com/user-attachments/assets/d75166f5-6d91-4cec-8209-8459fbef2c77)
+<img width="267" height="189" alt="images" src="https://github.com/user-attachments/assets/bb5d4da2-8fa0-400c-b332-2d6ac5237346" />
+
 
 
 
