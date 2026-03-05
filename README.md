@@ -1,4 +1,4 @@
-🛍️ Amazon Product Review — Sentiment & Customer Experience Analytics
+# 🛍️ Amazon Product Review Sentiment Analytics
 
 End-to-end analytics pipeline transforming 18,629 unstructured Amazon product reviews into structured business intelligence — spanning NLP modeling, SQL analytics, and a 7-page executive Power BI dashboard.
 
@@ -27,9 +27,12 @@ The core insight this project uncovers: star ratings alone are not enough. By co
 MetricValueInsightTotal Reviews Analyzed18,629Clean merged datasetAverage Star Rating4.49 / 5Strong overall satisfactionAverage Sentiment Score0.335Positive polarity confirmed by NLPPositive Sentiment Rate82.75%Majority of customers satisfiedPromoter : Detractor Ratio7.34 : 1Strong loyalty baseHidden Dissatisfaction Rate4.52%842 silent-risk customersHighest Risk CategoryBatteries — 13.88% detractor rateStructural quality issueTop Satisfaction CategorySmart Home — 0.373 avg sentimentHighest NLP satisfaction score
 
 🛠 Tech Stack
+Layer                   Tools
+Data Processing         python, Pandas, NumPy
+NLP                     NLTK, TextBlob
+Analytics               PostgreSQL, SQL
+Visualization           Power BI
 
-![images](https://github.com/user-attachments/assets/d75166f5-6d91-4cec-8209-8459fbef2c77)
-<img width="267" height="189" alt="images" src="https://github.com/user-attachments/assets/bb5d4da2-8fa0-400c-b332-2d6ac5237346" />
 
 
 
